@@ -53,7 +53,7 @@ export const UNITS_DATA: Record<string, UnitData> = {
     whatsapp: '554732040124',
     whatsappMessage: 'Olá! Gostaria de agendar uma consulta de avaliação na OdontoCompany Rio Negrinho.',
     instagramUrl: 'https://www.instagram.com/odontocompanyrionegrinho/',
-    facebookUrl: 'https://web.facebook.com/odontocompanyrionegrinho/',
+    facebookUrl: 'https://www.facebook.com/odontocompanyscrionegrinho/',
     croCl: 'CRO-SC 15.364',
     address: {
       street: 'Rua Henrique Schwarz',

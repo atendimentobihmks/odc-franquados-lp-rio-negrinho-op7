@@ -9,7 +9,7 @@ Landing Page Institucional e de Alta Conversão em React 19 + TypeScript + Vite 
 * **Endereço:** Rua Henrique Schwarz, 46 • Centro, Rio Negrinho/SC - CEP 89295-000
 * **WhatsApp:** (47) 3204-0124 (`554732040124`)
 * **Instagram:** https://www.instagram.com/odontocompanyrionegrinho/
-* **Facebook:** https://web.facebook.com/odontocompanyrionegrinho/
+* **Facebook:** https://www.facebook.com/odontocompanyrionegrinho/
 
 ---
 
